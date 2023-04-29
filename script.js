@@ -1,1 +1,1 @@
-alert("Don't click on the names given");
+alert("WARNING !! Adult Content Found");
